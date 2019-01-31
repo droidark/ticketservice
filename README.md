@@ -4,6 +4,7 @@ To run project execute the following command
 
 ```sh
 mvn test
+```
 
 Here's the test result
 
@@ -29,3 +30,4 @@ Tests run: 5, Failures: 0, Errors: 0, Skipped: 0
 [INFO] Finished at: 2019-01-31T11:47:20-08:00
 [INFO] Final Memory: 10M/245M
 [INFO] ------------------------------------------------------------------------
+```
